@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "520688483484",
+    "project_id": "fir-notification-edd53",
+    "storage_bucket": "fir-notification-edd53.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520688483484:android:871c4f8e7abda4f5f20159",
+        "android_client_info": {
+          "package_name": "simple.mehndi.design.firebasenotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520688483484-fb4klr1cpluja85rn2oen0bqcockn194.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm_fBMtshvROr1dLDd_2hzQ1e61z-VD2c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "520688483484-fb4klr1cpluja85rn2oen0bqcockn194.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
